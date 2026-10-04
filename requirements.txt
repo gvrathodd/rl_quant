@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+matplotlib
+tabulate
+xgboost
+scikit-learn
+gymnasium
+stable-baselines3
+pytest
